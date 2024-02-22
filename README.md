@@ -7,6 +7,7 @@ In Power BI I preform some more transformations using DAX, and display KPIs.
 
 This is my first dashboard using Power BI, I think I can improve on the color scheme, along with some other visualization issues. Other than that, creating my own script to get data from the Todoist API to google sheet would be a next step, to make it more dependable and quicker. Overall I got to make something I can use for myself and I also got a nice introduction to Power BI!
 
+![image](https://github.com/Saatvik1/Todoist-Task-Dashboard/assets/103705402/4c068367-15e9-4fb0-8ac6-f5aac4db5bd4)
 
 
 ![image](https://github.com/Saatvik1/Todoist-Task-Dashboard/assets/103705402/b85eb711-2376-45e0-a911-7de67fa472c7)
